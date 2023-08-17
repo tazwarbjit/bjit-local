@@ -1,5 +1,5 @@
 Test file
-Change made by his-branch! CONflicTTTTTTTTT
+Master branch wins!!!!!!!!!!!
 Change made by my-branch
 changes made by his-branch
 123456789
