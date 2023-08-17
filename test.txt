@@ -1,3 +1,5 @@
 Test file
+Change made by my-branch
+changes made by his-branch
 123456789
 changes made by my-branch
